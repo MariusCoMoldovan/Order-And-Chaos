@@ -1,4 +1,4 @@
-# Retake Exam
+# Order And Chaos
 
 
-**Make sure to commit & push your solution when done**
+**The player is put against the computer in the attempt to win a game of Order and Chaos**
